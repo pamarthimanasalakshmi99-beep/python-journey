@@ -13,7 +13,7 @@
 - Salary calculation
 - Basic operations
   
-## 📅 Day 2:
+## Day 2:
 If-Else Conditions:
 
 - if statement
@@ -23,7 +23,7 @@ If-Else Conditions:
 - Logical operators (and, or)
 - Decision making in Python
 
-### 🔹 Practice Programs:
+##  Practice Programs:
 - Positive / Negative / Zero check
 - Even or Odd check
 - Voting eligibility
@@ -34,7 +34,7 @@ If-Else Conditions:
 - Age category classification
 - FizzBuzz problem
   
- ### 🔹 Key Learnings:
+ ##  Key Learnings:
 - Understanding how conditions control program flow
 - Writing clean and optimized if-else logic
 - Applying logic to real-world problems
