@@ -12,3 +12,26 @@
 - Temperature conversion
 - Salary calculation
 - Basic operations
+  
+## 📅 Day 2:
+If-Else Conditions:
+
+- if statement
+- else statement
+- elif statement
+- Comparison operators (>, <, >=, <=)
+- Logical operators (and, or)
+- Decision making in Python
+
+### 🔹 Practice Programs:
+- Positive / Negative / Zero check
+- Even or Odd check
+- Voting eligibility
+- Biggest of two numbers
+- Grade system
+- Divisible by 5 check
+- Biggest of three numbers
+- Age category classification
+- FizzBuzz problem
+- Positive Even / Odd challenge
+
