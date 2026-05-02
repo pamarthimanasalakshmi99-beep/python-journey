@@ -14,13 +14,11 @@
 - Basic operations
 
 ##  Key Learnings
-
 - How to write simple Python programs
 - How to take input and display output
 - Basic understanding of variables and data types
 
 ##  Summary
-
 - Learned basics of Python
 - Worked with input and output
 - Used variables and data types
@@ -47,15 +45,15 @@ If-Else Conditions:
 - Age category classification
 - FizzBuzz problem
   
- ##  Key Learnings:
+ ##  Key Learnings
 - Understanding how conditions control program flow
 -  Writing clean and optimized if-else logic
 - Applying logic to real-world problems
 
 ## Summary
-Understood how to control program flow using conditional statements.
-Worked on problems like even/odd, positive/negative, and grading systems.
-Built a strong foundation in decision-making logic.
+- Learned if, elif, else statements
+- Practiced decision-making programs
+- Solved basic condition-based problems
   
 
  #  Day 3:
@@ -85,16 +83,14 @@ Built a strong foundation in decision-making logic.
 - Star pattern (nested loop)
 
 ##  Key Learnings
-- How loops help in repeating tasks efficiently
-- Difference between for loop and while loop
-- Using range() for iteration
-- Controlling loops using break and continue
-- Working with numbers using loops
-- Building logic step-by-step using iteration
+- How to use `for` and `while` loops
+- How to repeat tasks using loops
+- Basics of `break` and `continue`
+- Improved problem-solving using loops
 
 ## Summary
-Loops are one of the most important concepts in programming.  
-They help reduce code repetition and make logic building easier.
-This day focused on understanding loops with real examples and practice problems.
+- Loops are one of the most important concepts in programming.  
+- They help reduce code repetition and make logic building easier.
+- This day focused on understanding loops with real examples and practice problems.
 
 
