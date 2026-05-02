@@ -40,10 +40,9 @@ If-Else Conditions:
 - Applying logic to real-world problems
   
 
-- #  Day 3:
-- Loops in Python
+ #  Day 3:
+ Loops in Python:
 
-##  Topics Covered
 - for loop
 - while loop
 - range() function
@@ -52,7 +51,7 @@ If-Else Conditions:
 - nested loops
 - pattern printing
 
-##  Programs Included
+##  practice Programs 
 - Print numbers from 1 to 10
 - Print even numbers (1–20)
 - Sum of numbers (1–10)
