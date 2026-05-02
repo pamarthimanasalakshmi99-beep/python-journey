@@ -12,7 +12,20 @@
 - Temperature conversion
 - Salary calculation
 - Basic operations
-  
+
+##  Key Learnings
+
+- How to write simple Python programs
+- How to take input and display output
+- Basic understanding of variables and data types
+
+##  Summary
+
+- Learned basics of Python
+- Worked with input and output
+- Used variables and data types
+
+
 ## Day 2:
 If-Else Conditions:
 
@@ -38,6 +51,11 @@ If-Else Conditions:
 - Understanding how conditions control program flow
 -  Writing clean and optimized if-else logic
 - Applying logic to real-world problems
+
+## Summary
+Understood how to control program flow using conditional statements.
+Worked on problems like even/odd, positive/negative, and grading systems.
+Built a strong foundation in decision-making logic.
   
 
  #  Day 3:
@@ -77,7 +95,6 @@ If-Else Conditions:
 ## Summary
 Loops are one of the most important concepts in programming.  
 They help reduce code repetition and make logic building easier.
-
 This day focused on understanding loops with real examples and practice problems.
 
 
