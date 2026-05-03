@@ -6,7 +6,7 @@
 - Input/Output
 - Type Conversion
 
-## Practice Programs:
+## Practice Programs
 - Sum of numbers
 - Area calculation
 - Temperature conversion
@@ -34,7 +34,7 @@ If-Else Conditions:
 - Logical operators (and, or)
 - Decision making in Python
 
-##  Practice Programs:
+##  Practice Programs
 - Positive / Negative / Zero check
 - Even or Odd check
 - Voting eligibility
