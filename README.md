@@ -96,7 +96,6 @@ If-Else Conditions:
 ##  Day 4
 Functions & Strings:
 
-##  Topics Covered
 - Functions in Python
 - Parameters and Arguments
 - Return statement
@@ -104,7 +103,7 @@ Functions & Strings:
 - String operations (indexing, slicing)
 - String methods (`upper()`, `lower()`, `split()`, `join()`)
 
-##  Programs
+## practice Programs
 - Reverse string
 - Palindrome check
 - Count vowels
