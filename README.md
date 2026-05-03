@@ -116,17 +116,15 @@ Functions & Strings:
 - Capitalize string
 -Reverse each word in a sentence
 
-## Summary
-- Learned how to create and use functions
-- Understood how to return values from functions
-- Practiced string operations and methods
-- Combined functions with strings to solve problems
-
 ##  Key Learnings
 - Functions help to reuse code and make programs clean
 - `return` is used to send values back from a function
 - Strings can be manipulated using indexing and methods
 - Improved logical thinking by solving real-world problems
 
-
+## Summary
+- Learned how to create and use functions
+- Understood how to return values from functions
+- Practiced string operations and methods
+- Combined functions with strings to solve problems
 
