@@ -93,38 +93,45 @@ If-Else Conditions:
 - They help reduce code repetition and make logic building easier.
 - This day focused on understanding loops with real examples and practice problems.
 
-##  Day 4
+## Day 4 
 Functions & Strings:
 
-- Functions in Python
-- Parameters and Arguments
-- Return statement
+- Functions in Python (`def`, calling functions)
+- Parameters and return values
+- Difference between `print()` and `return`
 - Strings basics
 - String operations (indexing, slicing)
-- String methods (`upper()`, `lower()`, `split()`, `join()`)
+- String methods (`upper()`, `lower()`, `replace()`)
+- Looping through strings
 
-## practice Programs
-- Reverse string
-- Palindrome check
-- Count vowels
+## Practice Programs
+- Hello World function
+- Greeting function
+- Addition using function
+- Even or Odd check
+- Square of a number
+- Largest of 3 numbers
+- Reverse a string
+- Palindrome check (string)
+- Count vowels in string
 - Count uppercase letters
-- Count words
+- Count words in a sentence
 - Find longest word
 - Character frequency
-- Remove duplicates
+- Remove duplicate characters
 - First non-repeating character
-- Capitalize string
--Reverse each word in a sentence
+- Capitalize first letter
+- Reverse each word in sentence
 
 ##  Key Learnings
 - Functions help to reuse code and make programs clean
-- `return` is used to send values back from a function
-- Strings can be manipulated using indexing and methods
-- Improved logical thinking by solving real-world problems
-
-## Summary
-- Learned how to create and use functions
-- Understood how to return values from functions
+- `return` is used to send result back from function
+- Strings can be manipulated using methods and loops
+- Logical thinking improves by combining functions with strings
+  
+##  Summary
+-Learned how to create and use functions
+- Understood how to pass inputs and return outputs
 - Practiced string operations and methods
-- Combined functions with strings to solve problems
+- Improved problem-solving using functions and strings
 
