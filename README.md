@@ -130,7 +130,7 @@ Functions & Strings:
 - Logical thinking improves by combining functions with strings
   
 ##  Summary
--Learned how to create and use functions
+- Learned how to create and use functions
 - Understood how to pass inputs and return outputs
 - Practiced string operations and methods
 - Improved problem-solving using functions and strings
