@@ -93,4 +93,41 @@ If-Else Conditions:
 - They help reduce code repetition and make logic building easier.
 - This day focused on understanding loops with real examples and practice problems.
 
+##  Day 4
+Functions & Strings:
+
+##  Topics Covered
+- Functions in Python
+- Parameters and Arguments
+- Return statement
+- Strings basics
+- String operations (indexing, slicing)
+- String methods (`upper()`, `lower()`, `split()`, `join()`)
+
+##  Programs
+- Reverse string
+- Palindrome check
+- Count vowels
+- Count uppercase letters
+- Count words
+- Find longest word
+- Character frequency
+- Remove duplicates
+- First non-repeating character
+- Capitalize string
+-Reverse each word in a sentence
+
+## Summary
+- Learned how to create and use functions
+- Understood how to return values from functions
+- Practiced string operations and methods
+- Combined functions with strings to solve problems
+
+##  Key Learnings
+- Functions help to reuse code and make programs clean
+- `return` is used to send values back from a function
+- Strings can be manipulated using indexing and methods
+- Improved logical thinking by solving real-world problems
+
+
 
