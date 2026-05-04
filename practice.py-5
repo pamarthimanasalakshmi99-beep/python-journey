@@ -1,4 +1,4 @@
-LIST:
+## LIST
 
 # 1. List creation
 numbers = [10, 20, 30, 40]
