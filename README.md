@@ -135,3 +135,41 @@ Functions & Strings:
 - Practiced string operations and methods
 - Improved problem-solving using functions and strings
 
+## Day 5 
+Lists:
+
+- List basics
+- Indexing
+- Adding & removing elements
+- Looping through lists
+- Built-in functions (sum, max, min)
+
+## Practice Programs
+- List creation
+- First & last element
+- Sum of elements
+- Largest & smallest number
+- Even number count
+- Reverse list
+- Remove duplicates
+- Second largest number
+- Sum of odd numbers
+- Merge two lists
+- Search element
+- Find duplicates
+- Rotate list
+- Separate even & odd numbers
+
+## Key Learnings
+- Lists store multiple values in a single variable
+- Lists are mutable (can be changed)
+- Useful for real-world data handling
+- Learned looping and conditions with lists
+
+## Summary
+- Practiced list operations and solved multiple problems to improve logic building.
+
+
+
+
+
