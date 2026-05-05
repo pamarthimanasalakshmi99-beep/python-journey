@@ -169,6 +169,44 @@ Lists:
 ## Summary
 - Practiced list operations and solved multiple problems to improve logic building.
 
+## Day 6
+Dictionaries in Python:
+
+- What is a Dictionary
+- Creating a dictionary
+- Accessing values using keys
+- Adding and updating values
+- Checking if a key exists
+- Looping through dictionary (for loop)
+- Dictionary methods (basic usage)
+
+## Practice Programs
+- Create and print a student dictionary  
+- Take user input and store in dictionary  
+- Check if a key exists in dictionary  
+- Find sum of all values  
+- Find maximum value in dictionary  
+- Frequency count of numbers  
+- Word count in a sentence  
+- Contact search system  
+- Reverse a dictionary (keys ↔ values)  
+- Delete a key from dictionary  
+
+## Key Learnings
+- Dictionary stores data in **key-value pairs**
+- Each key must be **unique**
+- Values can be of any data type
+- Faster data access using keys
+- Useful for storing structured data like:
+- Student records
+- Contact details
+- Counting problems (frequency)
+
+## Summary
+- In Day 6, I learned how to use dictionaries to store and manage data efficiently.  
+- I practiced real-world problems like frequency counting, word count, and contact search.  
+- I understood how dictionaries help in fast data lookup and how they are used in real applications.
+
 
 
 
