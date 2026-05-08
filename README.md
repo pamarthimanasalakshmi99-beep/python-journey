@@ -208,6 +208,34 @@ Dictionaries in Python:
 - I understood how dictionaries help in fast data lookup and how they are used in real applications.
 
 
+# Day 7 
+Lists_programs(appliction):
+- What is a List
+- List Traversal (for loop)
+- Conditions on Lists
+- List Methods (append, count)
+- Finding max, min
+- Removing duplicates
+- Reverse list logic
 
+## Practice Programs
+- Count Odd Numbers in a List  
+- Reverse a List  
+- Find Maximum and Minimum  
+- Find Duplicate Elements  
+- Sum of Even Numbers  
+- Remove Duplicates  
+- Find Second Largest Element  
+
+## Key Learnings
+- How to traverse list using loops  
+- Applying conditions on each element  
+- Using list methods like append() and count()  
+- Problem solving using logic building  
+- How to avoid duplicates  
+
+## Summary
+- In Day 7, I learned how to work with lists and apply logic to solve real-world problems like finding duplicates, reversing data, and filtering elements.
+- This improved my problem-solving skills and understanding of data handling in Python.
 
 
